@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(8, 55, 8);
+}
+div {
+    color: red;
+}
+
+.talk {
+    color: yellow;
+}
+#title {
+    color: red;
+    background-color: red;
+} 
+
+.text {
+    font-size: 555px;
+    font-weight: 9000;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+
+.red {
+    background-color: red;
+}
+.normtext {
+    font-size: 22px;
+    font-weight: 9000;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+/* can use multiple within one
+.talk
+.untalk 
+{
+    color:red; 
+}
+etc. 
+
+possible to auto a image size without losing proportion
+height: auto;
+width: x px; 
+*/ 
